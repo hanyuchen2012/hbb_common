@@ -115,7 +115,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["yc.dlweituo.com"];
-pub const RS_PUB_KEY: &str = "ipofvuNWzZU5DkkshSG5bWAVdQk23uDG7MJeYuB+CU8=";
+pub const RS_PUB_KEY: &str = "hAXc7O2jCzazDh3VG5rFmTkLfD4xcm1ZeX5iIPhxdC8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
