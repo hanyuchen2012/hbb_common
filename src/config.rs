@@ -114,7 +114,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["soft.dlweituo.com"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["yc.dlweituo.com"];
 pub const RS_PUB_KEY: &str = "ipofvuNWzZU5DkkshSG5bWAVdQk23uDG7MJeYuB+CU8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
